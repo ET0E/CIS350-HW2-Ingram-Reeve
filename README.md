@@ -1,6 +1,7 @@
 # CIS350-HW2-Ingram-Reeve
 
 # Tristan Ingram-Reeve 
+## Tristan's Interests
 - Sports
 - Video Games
 - Weight Lifting
